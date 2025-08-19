@@ -2,7 +2,7 @@
 
 An autonomous lane-following robot system that uses computer vision for lane detection and dual-processor control architecture for real-time navigation.
 
-# Demo Video
+## Demo Video
 https://youtube.com/shorts/wNRHnfeyHHc?feature=share
 
 ## Overview
