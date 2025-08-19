@@ -2,6 +2,9 @@
 
 An autonomous lane-following robot system that uses computer vision for lane detection and dual-processor control architecture for real-time navigation.
 
+# Demo Video
+https://youtube.com/shorts/wNRHnfeyHHc?feature=share
+
 ## Overview
 
 This project implements an autonomous robot capable of following lane markings using computer vision techniques. The system combines a Raspberry Pi 4 for vision processing with an Arduino UNO for motor control, creating a responsive lane-following vehicle.
